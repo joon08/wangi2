@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import FooterNav from './components/FooterNav/index'
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Redirect
+} from 'react-router-dom'
+import menus from '$conf/menus'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App' style={{height:"100%"}}>
+      <Router>
+        <Switch>
+          {menus.map(menu => {
+            return <Route {...menu} key={menu.path} />
+          })}
+        </Switch>
+        <Route path='/' component={FooterNav} />
+        <Redirect from='/' to='/home' />
+      </Router>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

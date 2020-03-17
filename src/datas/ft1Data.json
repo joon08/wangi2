@@ -1,0 +1,636 @@
+{
+  "currentCategory": {
+    "showIndex": 0,
+    "type": 0,
+    "categoryType": 0,
+    "superCategoryId": 0,
+    "bannerList": [
+      {
+        "picUrl": "https://yanxuan.nosdn.127.net/6512cf60c8d8b6e67825317cb2b42025.jpg",
+        "extra": {
+          "materialContentFrom": 1,
+          "materialName": "38返场-3.9～3.12",
+          "rcmdSort": false,
+          "taskType": 1,
+          "itemFrom": 0,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 1,
+          "materialType": "自定义分类广告位",
+          "crmUserGroupId": "0",
+          "materialId": "54641057",
+          "taskId": "54648746"
+        },
+        "id": 54648746,
+        "targetUrl": "https://act.you.163.com/act/pub/FCDFfgPnshwu.html"
+      }
+    ],
+    "name": "推荐专区",
+    "id": 11,
+    "subCateList": []
+  },
+  "categoryGroupList": [
+    {
+      "categoryList": [
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png",
+          "type": 0,
+          "frontName": "自家员工眼里，什么值得买",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-员工精选好货",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 1,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54629129",
+            "taskId": "54648289"
+          },
+          "name": "精选好物15元起",
+          "id": 9999954648289,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png",
+          "type": 0,
+          "frontName": "这些商品都是999+的好评",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-999 好评",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 2,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54629151",
+            "taskId": "54648290"
+          },
+          "name": "999+好评",
+          "id": 9999954648290,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png",
+          "type": 0,
+          "frontName": "网易严选明星商品，百万用户的共同选择",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-明星商品",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 3,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54630361",
+            "taskId": "54648292"
+          },
+          "name": "明星商品低至69元",
+          "id": 9999954648292,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png",
+          "type": 0,
+          "frontName": "必买爆品新鲜补单",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-断货补单榜",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 4,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54631826",
+            "taskId": "54648293"
+          },
+          "name": "断货补单王39元起",
+          "id": 9999954648293,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/25daae363ef6662629d06e70846b983f.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/25daae363ef6662629d06e70846b983f.png",
+          "type": 0,
+          "frontName": "9.9、19.9、49.9、99.9好物推荐",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-9.9元超值好物",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 5,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54629133",
+            "taskId": "54648294"
+          },
+          "name": "9.9元超值好物",
+          "id": 9999954648294,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/08c6128ba97448e33084abbbdc53b072.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/08c6128ba97448e33084abbbdc53b072.png",
+          "type": 0,
+          "frontName": "",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "鲜蔬潮食",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 6,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54639495",
+            "taskId": "54648295"
+          },
+          "name": "鲜蔬潮食",
+          "id": 9999954648295,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/9ef8afaee07c03e79347b3ecc296e787.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/9ef8afaee07c03e79347b3ecc296e787.png",
+          "type": 0,
+          "frontName": "",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "早春单品",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 7,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54640514",
+            "taskId": "54648296"
+          },
+          "name": "早春单品",
+          "id": 9999954648296,
+          "subCateList": []
+        },
+        {
+          "showIndex": 0,
+          "wapBannerUrl": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png",
+          "bannerUrl": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png",
+          "type": 0,
+          "frontName": "这些生活小确幸，50元就可以抱回家",
+          "categoryType": 0,
+          "superCategoryId": 11,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "推荐专区-50元幸福好物",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 8,
+            "materialType": "自定义二级分类",
+            "crmUserGroupId": "0",
+            "materialId": "54629136",
+            "taskId": "54648297"
+          },
+          "name": "50元幸福好物",
+          "id": 9999954648297,
+          "subCateList": []
+        }
+      ],
+      "name": "",
+      "id": 0
+    }
+  ],
+  "categoryL1List": [
+    {
+      "showIndex": 0,
+      "type": 0,
+      "categoryType": 0,
+      "superCategoryId": 0,
+      "name": "推荐专区",
+      "id": 11,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "type": 0,
+      "categoryType": 0,
+      "superCategoryId": 0,
+      "name": "宅家防护",
+      "id": 12,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "type": 0,
+      "categoryType": 0,
+      "superCategoryId": 0,
+      "name": "爆品专区",
+      "id": 13,
+      "subCateList": []
+    },
+    {
+      "showIndex": 15,
+      "wapBannerUrl": "",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/dec6ff5ae8bae410809598950ba1f5b4.jpg",
+      "type": 1,
+      "frontName": "",
+      "categoryType": 0,
+      "wapExpandPicTargetUrl": "",
+      "superCategoryId": 0,
+      "name": "新品专区",
+      "id": 109217021,
+      "subCateList": [
+        {
+          "showIndex": 18,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/868ffb1eea27c48ba5660bf47c603e87.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/868ffb1eea27c48ba5660bf47c603e87.png",
+          "type": 3,
+          "frontName": "居家生活新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "居家生活新品",
+          "id": 109241000,
+          "subCateList": []
+        },
+        {
+          "showIndex": 17,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/9e803d800222f175fec661fa6e278be0.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/9e803d800222f175fec661fa6e278be0.png",
+          "type": 3,
+          "frontName": "服饰鞋包新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "服饰鞋包新品",
+          "id": 109241001,
+          "subCateList": []
+        },
+        {
+          "showIndex": 16,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/e61f0a8f526a72b2478907eb7656ba82.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/e61f0a8f526a72b2478907eb7656ba82.png",
+          "type": 3,
+          "frontName": "美食酒水新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "美食酒水新品",
+          "id": 109241002,
+          "subCateList": []
+        },
+        {
+          "showIndex": 15,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/7e8d0cebf248e821219eeff98802bcf7.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/7e8d0cebf248e821219eeff98802bcf7.png",
+          "type": 3,
+          "frontName": "个护清洁新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "个护清洁新品",
+          "id": 109241003,
+          "subCateList": []
+        },
+        {
+          "showIndex": 14,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/0b6482b6b84719bb9a0e588c431eddf1.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/0b6482b6b84719bb9a0e588c431eddf1.png",
+          "type": 3,
+          "frontName": "运动旅行新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "运动旅行新品",
+          "id": 109241004,
+          "subCateList": []
+        },
+        {
+          "showIndex": 13,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/67ceca8e064909ff03389c839dbfb494.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/67ceca8e064909ff03389c839dbfb494.png",
+          "type": 3,
+          "frontName": "母婴亲子新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "母婴亲子新品",
+          "id": 109241005,
+          "subCateList": []
+        },
+        {
+          "showIndex": 12,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/5669470173ff76df2d272c1c859127ad.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/5669470173ff76df2d272c1c859127ad.png",
+          "type": 3,
+          "frontName": "数码家电新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "数码家电新品",
+          "id": 109241006,
+          "subCateList": []
+        },
+        {
+          "showIndex": 11,
+          "wapBannerUrl": "https://yanxuan-item.nosdn.127.net/7669bbd7629feee76d585de4f0c1d773.png",
+          "bannerUrl": "https://yanxuan-item.nosdn.127.net/7669bbd7629feee76d585de4f0c1d773.png",
+          "type": 3,
+          "frontName": "全球特色新品推荐",
+          "categoryType": 0,
+          "wapExpandPicTargetUrl": "",
+          "superCategoryId": 0,
+          "name": "全球特色新品",
+          "id": 109241007,
+          "subCateList": []
+        }
+      ]
+    },
+    {
+      "showIndex": 1,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/e8bf0cf08cf7eda21606ab191762e35c.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/761877bc4e2cf50d7c424a8a7e6378bf.jpg",
+      "frontDesc": "回家，放松身心",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "居家生活",
+      "iconUrl": "https://yanxuan.nosdn.127.net/a45c2c262a476fea0b9fc684fed91ef5.png",
+      "id": 1005000,
+      "subCateList": []
+    },
+    {
+      "showIndex": 2,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/e9fe3cabed74c62c447396c8a4a8db0b.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/2d7c7841acae25d7bd66d95d22cb20f9.png",
+      "frontDesc": "贴身的，要亲肤",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "服饰鞋包",
+      "iconUrl": "https://yanxuan.nosdn.127.net/9f64e690b593694a25cb0be4807d4de5.png",
+      "id": 1010000,
+      "subCateList": []
+    },
+    {
+      "showIndex": 3,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/fb670ff3511182833e5b035275e4ac09.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/e71c18948044771a7ebd4c9cc551ce8a.png",
+      "frontDesc": "好吃，高颜值美食",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "美食酒水",
+      "iconUrl": "https://yanxuan.nosdn.127.net/c9280327a3fd2374c000f6bf52dff6eb.png",
+      "id": 1005002,
+      "subCateList": []
+    },
+    {
+      "showIndex": 4,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/284e588ee387f8491afd93d3cec77901.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/73e8dfdda753de91e028da67a0963c1a.png",
+      "frontDesc": "亲肤之物，严选天然",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "个护清洁",
+      "iconUrl": "https://yanxuan.nosdn.127.net/a6dcd39065e12767ec099cf37b65f000.png",
+      "id": 1013001,
+      "subCateList": []
+    },
+    {
+      "showIndex": 5,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/f946bc18da43e2f1f5417aec2060e492.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/e65d94b55a1c785cedeb398f62115922.png",
+      "frontDesc": "爱，从心开始",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "母婴亲子",
+      "iconUrl": "https://yanxuan.nosdn.127.net/0a427bfa1804cdf3fb5249b4c31e6319.png",
+      "id": 1011000,
+      "subCateList": []
+    },
+    {
+      "showIndex": 6,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/740f6ec44f396001a19ce3bb34b06d8e.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/20a3cc5d6c582f65119503b93b005976.png",
+      "frontDesc": "走出去，自然的恩赐",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "运动旅行",
+      "iconUrl": "https://yanxuan.nosdn.127.net/d1bb0452344b61f78da41dcb74c57d28.png",
+      "id": 109243029,
+      "subCateList": []
+    },
+    {
+      "showIndex": 7,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/4ac8bfac92724054a3ab2aafe5676832.jpg",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/fcd5a4b7f9dc02673945513aecc3d14a.jpg",
+      "frontDesc": "智能电器，点亮生活。",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "数码家电",
+      "iconUrl": "https://yanxuan.nosdn.127.net/4a54379128e65792fd836ee461e2ce27.png",
+      "id": 1043000,
+      "subCateList": []
+    },
+    {
+      "showIndex": 9,
+      "level": "L1",
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/1706e24a5e605870ba3b37ff5f49aa18.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/54e55e9d8a74c2cef5d624f99860ccdb.png",
+      "frontDesc": "爱好，点缀生活",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "imgUrl": "",
+      "superCategoryId": 0,
+      "name": "全球特色",
+      "iconUrl": "https://yanxuan.nosdn.127.net/7093cfecb9dde1dd3eaf459623df4071.png",
+      "id": 1019000,
+      "subCateList": []
+    }
+  ],
+  "categoryL2List": [
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png",
+      "type": 0,
+      "frontName": "自家员工眼里，什么值得买",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[0].extra"
+      },
+      "name": "精选好物15元起",
+      "id": 9999954648289,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png",
+      "type": 0,
+      "frontName": "这些商品都是999+的好评",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[1].extra"
+      },
+      "name": "999+好评",
+      "id": 9999954648290,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png",
+      "type": 0,
+      "frontName": "网易严选明星商品，百万用户的共同选择",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[2].extra"
+      },
+      "name": "明星商品低至69元",
+      "id": 9999954648292,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png",
+      "type": 0,
+      "frontName": "必买爆品新鲜补单",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[3].extra"
+      },
+      "name": "断货补单王39元起",
+      "id": 9999954648293,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/25daae363ef6662629d06e70846b983f.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/25daae363ef6662629d06e70846b983f.png",
+      "type": 0,
+      "frontName": "9.9、19.9、49.9、99.9好物推荐",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[4].extra"
+      },
+      "name": "9.9元超值好物",
+      "id": 9999954648294,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/08c6128ba97448e33084abbbdc53b072.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/08c6128ba97448e33084abbbdc53b072.png",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[5].extra"
+      },
+      "name": "鲜蔬潮食",
+      "id": 9999954648295,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/9ef8afaee07c03e79347b3ecc296e787.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/9ef8afaee07c03e79347b3ecc296e787.png",
+      "type": 0,
+      "frontName": "",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[6].extra"
+      },
+      "name": "早春单品",
+      "id": 9999954648296,
+      "subCateList": []
+    },
+    {
+      "showIndex": 0,
+      "wapBannerUrl": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png",
+      "bannerUrl": "https://yanxuan.nosdn.127.net/0cb19987ddd873c693272c60352ba6a7.png",
+      "type": 0,
+      "frontName": "这些生活小确幸，50元就可以抱回家",
+      "categoryType": 0,
+      "superCategoryId": 11,
+      "extra": {
+        "$ref": "$.categoryGroupList[0].categoryList[7].extra"
+      },
+      "name": "50元幸福好物",
+      "id": 9999954648297,
+      "subCateList": []
+    }
+  ]
+}
